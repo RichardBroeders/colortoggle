@@ -1,0 +1,81 @@
+body { 
+    background-color: grey;
+ }
+.colormenu:hover {
+    background-color: lightcoral;
+    color: black;
+    
+  }
+.nav li {display: block; padding: 8px;}
+
+.colormenu { 
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    background-image: url("img/hamburger_menu.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+.homebutton{ 
+    width: 500px;
+    height: 40px;
+    color: black;
+    background-color: grey;
+    font-size: 25px; 
+    font-style: italic; 
+    text-decoration: none;
+    
+}
+.homebutton:hover{ 
+    width: 500px;
+    height: 40px;
+    color: black;
+    background-color: lightgrey;
+    font-size: 25px; 
+    font-style: italic; 
+    text-decoration: none;
+    
+}
+.redbutton { 
+    width: 500px;
+    height: 40px;
+    color: black;
+    background-color: red;
+    font-size: 25px; 
+    font-style: italic; 
+    text-decoration: none;
+    
+    
+}
+.orangebutton  { 
+    width: 500px;
+    height: 40px;
+    color: black;
+    background-color: orange;
+    font-size: 25px; 
+    font-style: italic; 
+    text-decoration: none;
+    
+}
+
+.purplebutton { 
+    width: 500px;
+    height: 40px;
+    color: black;
+    background-color: purple;
+    font-size: 25px; 
+    font-style: italic; 
+    text-decoration: none;
+}
+.greenbutton { 
+    width: 500px;
+    height: 40px;
+    color: black;
+    background-color: green;
+    font-size: 25px; 
+    font-style: italic; 
+    text-decoration: none;
+}
+
